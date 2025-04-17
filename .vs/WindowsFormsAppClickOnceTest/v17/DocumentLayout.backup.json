@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vilov\\source\\repos\\WindowsFormsAppClickOnceTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WindowsFormsAppClickOnceTest||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234C5BCF-E177-4675-8B02-8A665673FCD7}|WindowsFormsAppClickOnceTest\\WindowsFormsAppClickOnceTest.csproj|C:\\Users\\vilov\\source\\repos\\WindowsFormsAppClickOnceTest\\windowsformsappclickoncetest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234C5BCF-E177-4675-8B02-8A665673FCD7}|WindowsFormsAppClickOnceTest\\WindowsFormsAppClickOnceTest.csproj|solutionrelative:windowsformsappclickoncetest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234C5BCF-E177-4675-8B02-8A665673FCD7}|WindowsFormsAppClickOnceTest\\WindowsFormsAppClickOnceTest.csproj|C:\\Users\\vilov\\source\\repos\\WindowsFormsAppClickOnceTest\\windowsformsappclickoncetest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{234C5BCF-E177-4675-8B02-8A665673FCD7}|WindowsFormsAppClickOnceTest\\WindowsFormsAppClickOnceTest.csproj|solutionrelative:windowsformsappclickoncetest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234C5BCF-E177-4675-8B02-8A665673FCD7}|WindowsFormsAppClickOnceTest\\WindowsFormsAppClickOnceTest.csproj|c:\\users\\vilov\\source\\repos\\windowsformsappclickoncetest\\windowsformsappclickoncetest\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowsFormsAppClickOnceTest",
+              "DocumentMoniker": "C:\\Users\\vilov\\source\\repos\\WindowsFormsAppClickOnceTest\\WindowsFormsAppClickOnceTest\\WindowsFormsAppClickOnceTest.csproj",
+              "RelativeDocumentMoniker": "WindowsFormsAppClickOnceTest\\WindowsFormsAppClickOnceTest.csproj",
+              "ToolTip": "C:\\Users\\vilov\\source\\repos\\WindowsFormsAppClickOnceTest\\WindowsFormsAppClickOnceTest\\WindowsFormsAppClickOnceTest.csproj*",
+              "RelativeToolTip": "WindowsFormsAppClickOnceTest\\WindowsFormsAppClickOnceTest.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-09T07:58:09.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\vilov\\source\\repos\\WindowsFormsAppClickOnceTest\\WindowsFormsAppClickOnceTest\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppClickOnceTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\vilov\\source\\repos\\WindowsFormsAppClickOnceTest\\WindowsFormsAppClickOnceTest\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsAppClickOnceTest\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:38:51.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vilov\\source\\repos\\WindowsFormsAppClickOnceTest\\WindowsFormsAppClickOnceTest\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppClickOnceTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\vilov\\source\\repos\\WindowsFormsAppClickOnceTest\\WindowsFormsAppClickOnceTest\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsAppClickOnceTest\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:38:06.974Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

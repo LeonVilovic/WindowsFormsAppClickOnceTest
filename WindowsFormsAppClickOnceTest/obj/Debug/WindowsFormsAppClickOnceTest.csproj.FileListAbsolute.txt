@@ -1,0 +1,14 @@
+C:\Users\vilov\source\repos\WindowsFormsAppClickOnceTest\WindowsFormsAppClickOnceTest\bin\Debug\WindowsFormsAppClickOnceTest.exe.config
+C:\Users\vilov\source\repos\WindowsFormsAppClickOnceTest\WindowsFormsAppClickOnceTest\bin\Debug\WindowsFormsAppClickOnceTest.exe.manifest
+C:\Users\vilov\source\repos\WindowsFormsAppClickOnceTest\WindowsFormsAppClickOnceTest\bin\Debug\WindowsFormsAppClickOnceTest.application
+C:\Users\vilov\source\repos\WindowsFormsAppClickOnceTest\WindowsFormsAppClickOnceTest\bin\Debug\WindowsFormsAppClickOnceTest.exe
+C:\Users\vilov\source\repos\WindowsFormsAppClickOnceTest\WindowsFormsAppClickOnceTest\bin\Debug\WindowsFormsAppClickOnceTest.pdb
+C:\Users\vilov\source\repos\WindowsFormsAppClickOnceTest\WindowsFormsAppClickOnceTest\obj\Debug\WindowsFormsAppClickOnceTest.csproj.AssemblyReference.cache
+C:\Users\vilov\source\repos\WindowsFormsAppClickOnceTest\WindowsFormsAppClickOnceTest\obj\Debug\WindowsFormsAppClickOnceTest.Form1.resources
+C:\Users\vilov\source\repos\WindowsFormsAppClickOnceTest\WindowsFormsAppClickOnceTest\obj\Debug\WindowsFormsAppClickOnceTest.Properties.Resources.resources
+C:\Users\vilov\source\repos\WindowsFormsAppClickOnceTest\WindowsFormsAppClickOnceTest\obj\Debug\WindowsFormsAppClickOnceTest.csproj.GenerateResource.cache
+C:\Users\vilov\source\repos\WindowsFormsAppClickOnceTest\WindowsFormsAppClickOnceTest\obj\Debug\WindowsFormsAppClickOnceTest.csproj.CoreCompileInputs.cache
+C:\Users\vilov\source\repos\WindowsFormsAppClickOnceTest\WindowsFormsAppClickOnceTest\obj\Debug\WindowsFormsAppClickOnceTest.exe.manifest
+C:\Users\vilov\source\repos\WindowsFormsAppClickOnceTest\WindowsFormsAppClickOnceTest\obj\Debug\WindowsFormsAppClickOnceTest.application
+C:\Users\vilov\source\repos\WindowsFormsAppClickOnceTest\WindowsFormsAppClickOnceTest\obj\Debug\WindowsFormsAppClickOnceTest.exe
+C:\Users\vilov\source\repos\WindowsFormsAppClickOnceTest\WindowsFormsAppClickOnceTest\obj\Debug\WindowsFormsAppClickOnceTest.pdb
